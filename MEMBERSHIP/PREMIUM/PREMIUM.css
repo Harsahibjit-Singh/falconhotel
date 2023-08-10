@@ -27,7 +27,7 @@
 #option-selected{
   border:2px solid gold;
   border-radius: 10px;
-  background-color: gold;
+  background-color: black;
 }
 #option-selected:hover{
   font-size: 1.2rem;
