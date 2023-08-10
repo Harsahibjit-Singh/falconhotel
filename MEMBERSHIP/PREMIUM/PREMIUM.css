@@ -10,9 +10,7 @@
     background-image: url("IMG1.jpeg");
     background-size: cover;
   }
-  header{
-    background-color: rgb(202, 57, 57);
-  }
+  
   .headerpart{
     border: 5px solid gold;
     background-color: black;
