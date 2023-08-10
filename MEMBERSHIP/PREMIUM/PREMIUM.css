@@ -27,9 +27,9 @@
   }
   /* option selected */
 #option-selected{
-  border:2px solid maroon;
+  border:2px solid gold;
   border-radius: 10px;
-  background-color: maroon;
+  background-color: gold;
 }
 #option-selected:hover{
   font-size: 1.2rem;
@@ -41,8 +41,8 @@
   text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-thickness: 4px;
-  color:maroon;
-  text-decoration-color: maroon;
+  color:gold;
+  text-decoration-color: gold;
   transition: text-decoration 10s ;
   transition: ease-in-out;
   transition: margin-right 4s ease-in-out 10s;
