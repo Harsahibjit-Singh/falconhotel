@@ -23,15 +23,6 @@
     font-weight: 900;
     font-size: 1.5rem;
   }
-  /* option selected */
-#option-selected{
-  border:2px solid gold;
-  border-radius: 10px;
-}
-#option-selected:hover{
-  font-size: 1.2rem;
-  font-weight:400;
-}
 
 /* transition for page to select from nav bar */
  .nav-item-underline-effect:hover{
